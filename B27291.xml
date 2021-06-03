@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new, rare, and exellent [sic] sonnet of a brave and lusty youth full groome, that was in love and could not tell with whom. To the tune of, Bodkins galiard.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27291</idno><idno type="EEBO-CITATION">99884664</idno>
+  <idno type="VID">192705</idno>
+  <idno type="EEBO-PROQUEST">2264210236</idno>
+  
+            <idno type="STC">Wing N737</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[186]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[187]</idno>
+            <idno type="STC">ESTC R216131</idno>
+            <idno type="PROQUEST">ocm99884664</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884664e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192705)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new, rare, and exellent [sic] sonnet of a brave and lusty youth full groome, that was in love and could not tell with whom. To the tune of, Bodkins galiard.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. C. J. W. T. V. W. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1655 and 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by Wing (CD-ROM).</note>
+                  <note>Verse: "You gentile nimphs that on the meddowes play,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Copy cut and mounted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192705:1"/>
+            <head>A New, Rare, and Exellent sonnet of A Brave and lusty youth full Groome, that Was in Love and could not tell with Whom.</head>
+            <opener>To the Tune of, <hi>Bodkius Galiard.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of gentleman with sword</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of noblewoman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>YOu gentile Nimphs that on the Meddowes play,</l>
+               <l>and oft relate the Loves of Shepeards young,</l>
+               <l>Come sit you down if that you please to stay,</l>
+               <l>now may you heare an uncouth passion Song:</l>
+               <l>A Lad there is an I am that poor groome.</l>
+               <l>
+                  <hi>That's fall'n in love, and cannot tell with whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ob doe not smile at sorrow as a iest:</l>
+               <l>with others cares good natures moved be,</l>
+               <l>And I should wéepe if you had my unrest,</l>
+               <l>then a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my griefe: how can you merry be?</l>
+               <l>Ah, whe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is tender pitty now become;</l>
+               <l>
+                  <hi>I am in love, and cannot tell with whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I that have oft the rarest featur<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> view'd</l>
+               <l>and beauty in her best perfection séen,</l>
+               <l>I that have laught at them that Love pursu'd,</l>
+               <l>and ever frée from such perfection béen,</l>
+               <l>Lo now at last so cruel is my doome,</l>
+               <l>
+                  <hi>I am in love, and not tell with whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My heart is full nigh bursting with desire,</l>
+               <l>yet cannot tell from whence these longings flow,</l>
+               <l>My bre<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth burne, but she that lights the fire,</l>
+               <l>I never saw, nor can I come to know,</l>
+               <l>So great a blisse my fortune kéepes me from,</l>
+               <l>
+                  <hi>That though I dearly love, I know not whom</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ere I bad twice f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure Springs renued séen,</l>
+               <l>the force of beauty I began to prove,</l>
+               <l>And ere I nine <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eares old had fully b<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</l>
+               <l>it taught me how to frame a sound of love,</l>
+               <l>And little thought I this day should have come,</l>
+               <l>
+                  <hi>Before that I to love had found out whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For on my Chin the Massy downe you sée,</l>
+               <l>and in my veines well heated blood doth glow,</l>
+               <l>Of Summers I have séene twice thrée times three,</l>
+               <l>and fast my you<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h full time a way doth goe:</l>
+               <l>That much I fea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, I aged shall become</l>
+               <l>
+                  <hi>And still complain I love, I know not whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh why had I a heart besto'd on me,</l>
+               <l>to cherish dea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e affectians so inclin'd</l>
+               <l>Since I am so unhappy born to be.</l>
+               <l>no obiect for so true love to find,</l>
+               <l>When I am dead it will be mist fo some,</l>
+               <l>
+                  <hi>Yet now I live, I love, I know not whom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I to a thousand beauteous Nimphs are knowne,</l>
+               <l>a hundred Ladies favours do I sware,</l>
+               <l>I with as many halfe in love am growne,</l>
+               <l>yet none of them I find can be my Deare,</l>
+               <l>Me thinks I have a Mistresse yet to come,</l>
+               <l>
+                  <hi>Which makes me sing, I love I know not whom.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:192705:1"/>
+               <head>The second Part,</head>
+               <opener>To the same Tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of knight</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THere lives no swaine doth stronger passion prove</l>
+                  <l>for her, whom most be covets to possesse,</l>
+                  <l>Then doth my heart, that being full of love,</l>
+                  <l>knowes not to whom it may the same professe,</l>
+                  <l>For he that is despis'd hath sorow some,</l>
+                  <l>
+                     <hi>but he hath more, that loves and knowes not whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Knew I my love as many others doe,</l>
+                  <l>to some one obiect might my thoughts be bent,</l>
+                  <l>So they divided, wandring should not goe,</l>
+                  <l>untill the soules united force be spent,</l>
+                  <l>As he that séekes, and never findes a home,</l>
+                  <l>
+                     <hi>Such is my rest, that loves and know not whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Those whom the frownes of jealous frinds divine,</l>
+                  <l>may live to méet and descant of their woe,</l>
+                  <l>And he hath gain'd a Lady for his Brid,</l>
+                  <l>that durst not woe his Maid a while agoe,</l>
+                  <l>But oh what ends unto my hopes can come,</l>
+                  <l>
+                     <hi>That am in love, and cannot tel with whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Poore <hi>Collin</hi> grieues that he was late disdain'd,</l>
+                  <l>and <hi>Clores</hi> doth for <hi>Willies</hi> absence pine,</l>
+                  <l>Sad <hi>Thirsis</hi> wéepes for his sicke <hi>Phebe</hi> pain'd,</l>
+                  <l>but all their sorrowes cannot equall mine,</l>
+                  <l>A greater care on me, alas is come,</l>
+                  <l>
+                     <hi>I am in love, and connot tell with whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Narcissus</hi> like did I affect my shade.</l>
+                  <l>sume shadow yet I had to dote upon</l>
+                  <l>Or did I love some Image of the dead,</l>
+                  <l>whose substance had not breathed long agone,</l>
+                  <l>I might despare, and so an end would come.</l>
+                  <l>
+                     <hi>But oh I love, and cannot tell with whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Once in a dreame me thought my Love I view'd</l>
+                  <l>but never waking could her face behold,</l>
+                  <l>And doubtlesse that resemblance was but shew'd,</l>
+                  <l>that more my tyred hart tormented it should,</l>
+                  <l>For since that time more griev'd I am become,</l>
+                  <l>
+                     <hi>And more in love, and cannot tell with, whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When on my bed at night to rest I lie,</l>
+                  <l>my watchfull eyes with teares bedew my thee akes</l>
+                  <l>And then, <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h would once were day I cry,</l>
+                  <l>yet when it comes I am as farre to séeke,</l>
+                  <l>For who can tell though all the earth be c<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me,</l>
+                  <l>
+                     <hi>Or when, or where to find he Knowes not whom.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Or if she be amongst the beauteous traines</l>
+                  <l>of all the Nimphes that bunt the severall Hils,</l>
+                  <l>Or if you know her Ladies of the plaines,</l>
+                  <l>or you that have your Bowers on the Hils,</l>
+                  <l>Tell if you can who will my love be come,</l>
+                  <l>
+                     <hi>Or I shall die, and never know of whom.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> F. C. J. W. T. V. W. G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
